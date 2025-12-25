@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Datasets (too large)
+dataset/PlantVillage_raw/
+dataset/processed/
+dataset/stage2/
+
+# Test images
+test_images/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
